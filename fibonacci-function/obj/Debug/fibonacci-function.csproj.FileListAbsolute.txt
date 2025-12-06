@@ -1,0 +1,6 @@
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\bin\Debug\fibonacci-function.exe.config
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\bin\Debug\fibonacci-function.exe
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\bin\Debug\fibonacci-function.pdb
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\obj\Debug\fibonacci-function.csprojResolveAssemblyReference.cache
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\obj\Debug\fibonacci-function.exe
+C:\Users\almas\Desktop\New folder\fibonacci-function\fibonacci-function\obj\Debug\fibonacci-function.pdb
